@@ -3,3 +3,4 @@ wnp Resolusi
 -membuat platfrom untuk pengolahan vidio
 -membuat forum diskusi
 -membuat project kolaborasi dengan banyak expert
+-membuat web
