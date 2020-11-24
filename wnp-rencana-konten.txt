@@ -1,5 +1,8 @@
 RENCAN KONTEN WNP
 
 -ngevlog
+ *es6
+ *php
 -mukbang
 -interview
+
