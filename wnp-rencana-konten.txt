@@ -4,6 +4,7 @@ RENCAN KONTEN WNP
  *es6
  *php
   ^view
+  ^crud
 -struktur dasar
 -mukbang
  ^laravel
