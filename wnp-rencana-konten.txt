@@ -3,7 +3,9 @@ RENCAN KONTEN WNP
 -ngevlog
  *es6
  *php
+  ^view
 -struktur dasar
 -mukbang
+ ^laravel
 -interview
 
